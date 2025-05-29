@@ -1495,7 +1495,7 @@ Tabs.Credits:Paragraph({
             Title = "Copy Discord Link",
             Variant = "Primary",
             Callback = function() 
-                setclipboard("https://discord.gg/starxhub")
+                setclipboard("https://discord.gg/bzqdxBChab")
                 WindUI:Notify({
                     Title = "Discord Link Copied",
                     Content = "Discord link has been copied to your clipboard!",
